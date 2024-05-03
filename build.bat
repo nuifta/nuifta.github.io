@@ -1,4 +1,5 @@
 @echo off
+SET PATH=%PATH%
 set NODE_SKIP_PLATFORM_CHECK=1
 pushd "D:\Proyectos HTML"
 .\tailwindcss-windows-x64.exe init
